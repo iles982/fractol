@@ -13,7 +13,7 @@ How to run program?
 
 You can run the project with the following command:
 
-./fractol <name>
+./fractol "<name>"
 
 NAME: julia, mandelbrot, mandelbar, burning_ship.
 
